@@ -4,7 +4,7 @@
   <wxString Value="/Users/lwheng/dev/learncpp/FirstWorkspace/FirstWorkspace.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="/Users/lwheng/dev/learncpp/FirstWorkspace/Project1/main.cpp" Name="FileName"/>
+      <wxString Value="/Users/lwheng/dev/learncpp/FirstWorkspace/Project2/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
       <int Value="5" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
